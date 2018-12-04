@@ -1,0 +1,10 @@
+[
+  {
+    "url": "git@examlesite1.com:user1/repo",
+    "dir": "example-directory1"
+  },
+  {
+    "url": "git@examlesite2.com:user2/repo",
+    "dir": "example-directory2"
+  }
+]
